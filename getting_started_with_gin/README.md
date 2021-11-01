@@ -1,0 +1,1 @@
+This program represents a simple demo of the gin framework With a very basic GET request
