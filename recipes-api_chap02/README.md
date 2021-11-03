@@ -4,7 +4,7 @@ We cover these three main points:
    - The HTTP routes Implementation
    - The Writing of the OpenAPI Specification
 
-The API endpoints are described in the following table:
+The API endpoints are described in the following table: 
 
 +--------------------+---------------------+--------------------+
 |HTTP Method         |Resource             |Description         |
